@@ -1,0 +1,30 @@
+body {
+    background-color:#00000a;
+    color: white;
+    font-family:Arial, sansserif;
+    font-size:90%; 
+    }
+
+    h1 {
+        font-size: 20px;
+      }
+
+    p { 
+        font-size: 12px;
+        color: rgb(188, 187, 187); 
+        }
+
+    ul {
+        list-style-type: square;
+      }
+
+    ol {
+        list-style-type: upper-alpha;
+    }
+
+    .kuvaus {
+        border: dotted;
+        border-width: 2px;
+        width: 100px;
+        height: 100px;
+    }
