@@ -1,6 +1,7 @@
 body {
-    background-color:#00000a;
-    color: white;
+    background-image: url("tausta.jpg");
+    background-color:hwb(240 98% 1%);
+    color: #0b0b0b;
     font-family:Arial, sansserif;
     font-size:90%; 
     }
@@ -28,3 +29,7 @@ body {
         width: 100px;
         height: 100px;
     }
+
+h1 {
+    border-style: solid;
+}
