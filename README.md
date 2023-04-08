@@ -2,10 +2,11 @@
 Kurssilla RO244-3029 tehtävät harjoitukset sekä lopputyö
 
 
-Aikataulu (Canvas)
+Aikataulu 
+
+************************************************************
 
 ma 6.3. B407
-12.30 - 15.45
 
 Teoria: Opintojakson aloitus ja työkalut, Internet and WWW
 Teoria: HTML basics ja configuring color and text with CSS
@@ -14,10 +15,10 @@ Tehtävät 00, 01, 02, 03
 ************************************************************
 
 ti 21.3 Zoom
-17.00 - 18.30
-
 Teoria: Visual Elements and graphics and WEB design
-Tehtävät 04, 05
+
+Tehtävä 3B:
+https://jemajii.github.io/verkkosivujen_kehitys/3B/
 
 ************************************************************
 
@@ -28,6 +29,9 @@ Teoria: Page layout
 Työpaja: Ohjausta saatavana ja mahdollisuus kysellä
 Lisäksi: Versionahllinta, GitHub ja sovelluksen julkaiseminen
 Tehtävä 06
+
+Tehtävä 4B:
+
 
 ************************************************************
 
