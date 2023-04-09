@@ -2,6 +2,20 @@
 Kurssilla RO244-3029 tehtävät harjoitukset sekä lopputyö
 
 
+Tehtäväpalautukset:
+
+Tehtävä 3B:
+https://jemajii.github.io/verkkosivujen_kehitys/3B/
+
+Tehtävä 4B:
+https://jemajii.github.io/verkkosivujen_kehitys/4B/
+
+Tehtävä 6B:
+https://jemajii.github.io/verkkosivujen_kehitys/6B/
+
+
+***********************************************************
+
 Aikataulu 
 
 ************************************************************
@@ -17,9 +31,6 @@ Tehtävät 00, 01, 02, 03
 ti 21.3 Zoom
 Teoria: Visual Elements and graphics and WEB design
 
-Tehtävä 3B:
-https://jemajii.github.io/verkkosivujen_kehitys/3B/
-
 ************************************************************
 
 ma 27.3. B407
@@ -31,7 +42,6 @@ Lisäksi: Versionahllinta, GitHub ja sovelluksen julkaiseminen
 Tehtävä 06
 
 Tehtävä 4B:
-
 
 ************************************************************
 
