@@ -1,0 +1,112 @@
+body {
+    background-image: url("tausta.jpg");
+    background-color:hwb(240 98% 1%);
+    color: #0b0b0b;
+    font-family:Arial, sansserif;
+    font-size:90%; 
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    }
+
+    h1 {
+        font-size: 40px;
+        border-style: solid;
+        padding: 10px;
+        text-align: center;
+        background-color: #f1f1f1;
+      }
+
+    ul {
+        list-style-type: square;
+      }
+
+    ol {
+        list-style-type: upper-alpha;
+    }
+
+    .kuvaus {
+        border: dotted;
+        border-width: 2px;
+        width: 100px;
+        height: 100px;
+        text-align: center;
+    }
+
+    h2 {
+        font-size: 20px;
+        padding: 0px;
+    }
+
+
+p {
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: #faeffd;
+    font-size: medium;
+    color: #0b0b0b;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+
+.vertical-navigation {
+    list-style-type: none;
+    line-height: 5;
+    margin-left: 0px;
+    margin-right: 10px;
+    padding: 10px;
+    width: 20%;
+    background-color: #f1f1f1;
+    float: left;
+    display: block;
+    }
+
+
+#horizontal-navigation li {
+    display: inline;
+}
+
+
+#horizontal-navigation {
+    list-style-type: none;
+    padding: 10px;
+    display: inline;
+    background-color: #f1f1f1;
+    display: block;
+    text-align: center;
+    line-height: 3;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(66, 12, 87);
+}
+
+#horizontal-navigation a:hover {
+    color: red;
+}
+
+.next-to-navigation {
+    width: 70%;
+    float: right;
+    margin-left: 0px;
+    margin-right: 10px;
+    background: #f1f1f1;
+    padding: 10px;
+}    
+
+.lists {
+    background-color: lightcyan;
+    font-size: medium;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
