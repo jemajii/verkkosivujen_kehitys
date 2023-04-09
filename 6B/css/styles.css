@@ -48,7 +48,7 @@ p {
     list-style-type: none;
     margin-left: 0px;
     margin-right: 40px;
-    padding: 0;
+    padding: 10px;
     width: 20%;
     background-color: #f1f1f1;
     float: left;
@@ -60,12 +60,16 @@ p {
 }
 
 
-.horizontal-navigation {
+#horizontal-navigation {
     list-style-type: none;
-    margin: 0px;
-    padding: 0px;
+    margin-left: 200px;
+    padding: 10px;
     display: inline;
-    float: left;
+    float: center;
+}
+
+.main-menu:hover {
+    color: red;
 }
 
 /* commented out, trying to find a solution for only one list
