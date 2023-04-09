@@ -68,16 +68,9 @@ p {
     float: center;
 }
 
-.main-menu:hover {
+#horizontal-navigation a:hover {
     color: red;
 }
-
-/* commented out, trying to find a solution for only one list
-li {
-    display: inline;
-}
-*/
-
 
 #next-to-nav {
     width: 75%;
