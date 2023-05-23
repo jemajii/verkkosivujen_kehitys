@@ -1,7 +1,7 @@
 body {
     background-image: url("tausta.jpg");
     background-color:hwb(240 98% 1%);
-    color: #0b0b0b;
+    color: darkslategrey;
     font-family:Arial, sansserif;
     min-height: 100vh;
     display: flex;
@@ -13,20 +13,21 @@ body {
     padding-left: 80px;
     }
 
-    h1 {
-        font-size: 40px;
-        border-style: none;
-        padding: 20px;
-        text-align: center;
-        background-color: #f1f1f1;
-      }
+h1 {
+    font-size: 40px;
+    color: darkslategrey;
+    border-style: none;
+    padding: 20px;
+    text-align: center;
+    background-color: #f1f1f1;
+    }
 
-    ul {
-        list-style-type: square;
-      }
+ul {
+    list-style-type: square;
+    }
 
-    ol {
-        list-style-type: upper-alpha;
+ol {
+    list-style-type: upper-alpha;
     }
 
     .kuvaus {
@@ -37,36 +38,24 @@ body {
         text-align: center;
     }
 
-    h2 {
-        font-size: 20px;
-        padding: 0px;
+h2 {
+    font-size: 20px;
+    padding: 0px;
+    color: darkslategrey;
     }
 
 
 p {
-    border: 2px solid black;
+    border: none;
     border-radius: 5px;
-    background-color: #faeffd;
+    background-color: #f1f1f1;
     font-size: medium;
-    color: #0b0b0b;
+    color: darkslategray;
     padding-top: 5px;
     padding-right: 5px;
     padding-bottom: 5px;
     padding-left: 5px;
 }
-
-
-.vertical-navigation {
-    list-style-type: none;
-    line-height: 5;
-    margin-left: 0px;
-    margin-right: 10px;
-    padding: 10px;
-    width: 20%;
-    background-color: #f1f1f1;
-    float: left;
-    display: block;
-    }
 
 
 #horizontal-navigation li {
@@ -86,7 +75,7 @@ p {
 
 a {
     text-decoration: none;
-    color: rgb(66, 12, 87);
+    color: darkslategrey;
 }
 
 a:link {
@@ -128,8 +117,7 @@ footer {
     float: left;
     height: 10%;
     width: 100%;
-    padding: 10px;
-    margin-top: auto;
+    padding: none;
 }
 
 #tekniikat {
@@ -138,7 +126,7 @@ footer {
 }
 
 #tekniikat td, tekniikat th {
-    border: 2px solid #ddd;
+    border: 2px solid lightgrey;
     padding: 10px;
 }
 
